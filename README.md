@@ -1,18 +1,12 @@
-## Getting Started
+# Don't Repair This Ship – Disable Hull Restoration
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Installation
 
-## Folder Structure
+1. Unzip the mod
+2. Put the `Dont_Repair_This_Ship_src` folder into your `Starsector/mods/` directory
+3. Enable the mod in the launcher
 
-The workspace contains two folders by default, where:
+## Save Compatibility
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Safe to add to an existing save
+- NOT safe to remove after being enabled
