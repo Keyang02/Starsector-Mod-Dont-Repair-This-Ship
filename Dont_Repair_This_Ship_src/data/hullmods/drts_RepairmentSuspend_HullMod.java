@@ -4,9 +4,9 @@ import com.fs.starfarer.api.combat.BaseHullMod;
 import com.fs.starfarer.api.combat.ShipAPI;
 import com.fs.starfarer.api.combat.ShipAPI.HullSize;
 
-public class drt_RepairmentSuspend_HullMod extends BaseHullMod {
+public class drts_RepairmentSuspend_HullMod extends BaseHullMod {
 
-    public static final String HULLMOD_ID = "drt_RepairmentSuspend";
+    public static final String HULLMOD_ID = "drts_RepairmentSuspend";
 
     @Override
     public String getDescriptionParam(int index, HullSize hullSize) {

@@ -7,9 +7,9 @@ import com.fs.starfarer.api.fleet.FleetMemberAPI;
 import com.fs.starfarer.api.impl.campaign.ids.Tags;
 
 
-public class drt_RepairmentSuspend_SnycScripts implements EveryFrameScript {
+public class drts_RepairmentSuspend_SnycScripts implements EveryFrameScript {
 
-    public static final String HULLMOD_ID = "drt_RepairmentSuspend";
+    public static final String HULLMOD_ID = "drts_RepairmentSuspend";
 
     @Override
     public void advance(float amount) {
