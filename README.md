@@ -1,4 +1,6 @@
-# Don't Repair This Ship – Disable Hull Restoration
+# Don't Repair This Ship - Disable Hull Restoration
+
+![Introduction](pics/introduction.png)
 
 ## Installation
 
