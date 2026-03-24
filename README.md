@@ -12,3 +12,10 @@
 
 - Safe to add to an existing save
 - NOT safe to remove after being enabled
+
+## Mod Compatibility
+
+- No known mod conflicts at this time.
+- Compatible with the [Second Command](https://fractalsoftworks.com/forum/index.php?topic=30407.0) Continuous Repairs skill (v1.8.2).
+
+![Second in Command Compatibility](pics/Second_in_Command_Compatiblity.png)
