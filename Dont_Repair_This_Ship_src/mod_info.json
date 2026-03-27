@@ -4,7 +4,7 @@
     "author":"SolarBall11",
     "totalConversion":"false",
     "utility":"false",
-    "version": {"major":1, "minor":0, "patch":0},
+    "version": {"major":1, "minor":1, "patch":0},
     "description":"A hull-mod that disables monthly D-mod removal of Hull Restoration skill on certain ship", 
     "gameVersion":"0.98a-RC8",
     "modPlugin":"data.scripts.ModPlugin"

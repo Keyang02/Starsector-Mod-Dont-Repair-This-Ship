@@ -1,2 +1,2 @@
 name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sprite
-Repairment Suspended,drts_RepairmentSuspend,0,,,"no_build_in, no_drop, merc","Special",4000,TRUE,FALSE,FALSE,0,0,0,0,data.hullmods.drts_RepairmentSuspend_HullMod,Prevent D-mods on this ship from being removed by Hull Restoration skill.,Suspend D-mods repairment.,graphics/hullmods/Dont_Repair_48pix_icon.png
+Repairment Suspended,drts_RepairmentSuspend,0,,,"no_build_in, no_drop, merc","Special",4000,TRUE,FALSE,FALSE,0,0,0,0,data.hullmods.drts_RepairmentSuspend_HullMod,Suspend %1$s on this ship.,Suspend Hull Restoration on this ship.,graphics/hullmods/Dont_Repair_48pix_icon.png
